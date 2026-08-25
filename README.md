@@ -20,5 +20,9 @@
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Drian24-lab/Drian24-lab/main/metrics.stargazers.svg" width="100%"/>
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/Drian24-lab/Drian24-lab/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
