@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: Drian24-lab
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#22c55e&color_dots=#0a2a12,#134e2b,#166534,#22c55e,#86efac
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
