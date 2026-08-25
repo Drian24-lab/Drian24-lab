@@ -20,9 +20,9 @@
   .clip1 rect { animation: type1 12s infinite; }
   .clip2 rect { animation: type2 12s infinite; }
   .clip3 rect { animation: type3 12s infinite; }
-  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:194px} 27%{width:194px} 33%{width:0} 100%{width:0} }
-  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:296px} 60%{width:296px} 66%{width:0} 100%{width:0} }
-  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:438px} 95%{width:438px} 100%{width:0} }
+  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:219px} 27%{width:219px} 33%{width:0} 100%{width:0} }
+  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:250px} 60%{width:250px} 66%{width:0} 100%{width:0} }
+  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:302px} 95%{width:302px} 100%{width:0} }
 </style>
 
 <radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
@@ -76,13 +76,13 @@
 
 <rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#86efac" filter="url(#glow3)"/>
 
-<clipPath id="clip1" class="clip1"><rect x="353" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip2" class="clip2"><rect x="302" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip3" class="clip3"><rect x="231" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip1" class="clip1"><rect x="340" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip2" class="clip2"><rect x="325" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip3" class="clip3"><rect x="299" y="215" width="0" height="30"/></clipPath>
 
-<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">2ND — NTE ROBOTICS</text>
-<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">3RD — ROBOTICS ENG. NOTEBOOK</text>
-<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">DELEGATE — FIRST GLOBAL 2024, ATHENS 🇬🇷</text>
+<text x="340" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">LEARNING — HTML &amp; CSS</text>
+<text x="325" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">LEARNING — JAVA &amp; PYTHON</text>
+<text x="299" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">STATUS — SELF-TAUGHT BEGINNER</text>
 
 <g>
 <rect x="356" y="280" width="188" height="42" rx="10" fill="#0a2a12" stroke="#22c55e" stroke-width="1.4" filter="url(#glow3)"/>
